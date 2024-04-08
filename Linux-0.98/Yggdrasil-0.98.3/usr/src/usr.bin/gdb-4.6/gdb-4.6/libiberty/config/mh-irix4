@@ -1,3 +1,0 @@
-CC = cc -cckr
-RANLIB = true
-INSTALL = cp

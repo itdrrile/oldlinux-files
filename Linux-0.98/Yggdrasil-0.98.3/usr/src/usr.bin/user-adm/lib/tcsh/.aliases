@@ -1,4 +1,0 @@
-#
-alias ls 	"ls -sF"
-alias dir/w	"ls -sAF"
-alias pwd	'echo $cwd'

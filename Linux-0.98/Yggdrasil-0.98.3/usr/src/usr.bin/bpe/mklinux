@@ -1,2 +1,0 @@
-echo "Making bpe for Linux 0.96c"
-make LIBES="-lcurses" LOCAL="-O"

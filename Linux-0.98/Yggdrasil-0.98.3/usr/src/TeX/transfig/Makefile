@@ -1,5 +1,0 @@
-#
-# TransFig makefile
-#
-
-all: 

@@ -1,3 +1,0 @@
-(deffun delspaces (
-  while and(test-char " ,not(test-end-line)) (O_DEL_CHAR_RIGHT)
-))

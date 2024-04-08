@@ -1,3 +1,0 @@
-#!/bin/sh
-# $ROOT/etc/lilo/lilo -i /etc/lilo/boot.b $* /vmlinux
-lilo -i /etc/lilo/boot.b $* /vmlinux

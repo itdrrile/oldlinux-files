@@ -1,3 +1,0 @@
-#!/bin/sh
-/bin/rm -f map boot.0*
-./lilo -c -r /mnt1 -b /dev/fd1 -i ./boot.b -v -v -v /vmlinux,/dev/fd0
